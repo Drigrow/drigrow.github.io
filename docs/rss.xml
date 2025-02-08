@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Drigrow Blog Mirr</title><link>https://drigrow.github.io</link><description>Drigrow小站的镜像站</description><copyright>Drigrow Blog Mirr</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.drigrow.us.kg/wp-content/uploads/2024/11/3904-150x150.jpg</url><title>avatar</title><link>https://drigrow.github.io</link></image><lastBuildDate>Sat, 08 Feb 2025 16:47:11 +0000</lastBuildDate><managingEditor>Drigrow Blog Mirr</managingEditor><ttl>60</ttl><webMaster>Drigrow Blog Mirr</webMaster><item><title>免费节点</title><link>https://drigrow.github.io/post/mian-fei-jie-dian.html</link><description>最近在网上冲浪的时候发现了这个项目：
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Drigrow Blog Mirr</title><link>https://drigrow.github.io</link><description>Drigrow小站的镜像站</description><copyright>Drigrow Blog Mirr</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.drigrow.us.kg/wp-content/uploads/2024/11/3904-150x150.jpg</url><title>avatar</title><link>https://drigrow.github.io</link></image><lastBuildDate>Sat, 08 Feb 2025 16:56:53 +0000</lastBuildDate><managingEditor>Drigrow Blog Mirr</managingEditor><ttl>60</ttl><webMaster>Drigrow Blog Mirr</webMaster><item><title>启用这个镜像站了</title><link>https://drigrow.github.io/post/qi-yong-zhe-ge-jing-xiang-zhan-le.html</link><description>以前的网站
+[https://blog.drigrow.us.kg](https://blog.drigrow.us.kg)
+因为域名过期了 我登不上去 暂时报废了(
+只能先启用这个过度一下
+而且以前的文章不一定能找回来多少
+能找回来的都在internet archive里面了 自己看罢😔
+[https://web.archive.org/web/20240701000000*/blog.drigrow.us.kg](https://web.archive.org/web/20240701000000*/blog.drigrow.us.kg)
+
+如果看过我之前博客的朋友应该也知道，我以前那个博客是舰载一个colocrosing的10刀一年的服务器上的。</description><guid isPermaLink="true">https://drigrow.github.io/post/qi-yong-zhe-ge-jing-xiang-zhan-le.html</guid><pubDate>Sat, 08 Feb 2025 16:56:29 +0000</pubDate></item><item><title>免费节点</title><link>https://drigrow.github.io/post/mian-fei-jie-dian.html</link><description>最近在网上冲浪的时候发现了这个项目：
 
 [https://github.com/peasoft/NoMoreWalls/tree/master](https://web.archive.org/web/20241126174734/https://github.com/peasoft/NoMoreWalls/tree/master)
 
