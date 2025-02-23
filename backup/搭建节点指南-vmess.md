@@ -1,3 +1,7 @@
+==========
+### 建议：[更新x-ui面板至3x-ui](https://blog.0071126.xyz/post/geng-xin-x-ui-mian-ban-zhi-3x-ui.html)
+==========
+
 这篇内容讲一下如何快速自建一个vmess节点。
 
 上一篇trojan的虽然简单，但是因为有`tls-in-tls`特征，某些地区会被针对，所以这篇文章写一个不会被这个方式针对的代理
